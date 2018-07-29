@@ -1,7 +1,8 @@
 # Репозиторий с лого для Einherjar
 
-Базовый логотип, он же Premium-нашивка: einherjar_logo_full.svg
-Минималистичный лого - для сайта, печатной продукции и т.п., он же Standard-нашивка:  einherjar_arrow_logo.svg
+Базовый логотип, он же Premium-нашивка: `einherjar_logo_full.svg`
+
+Минималистичный лого - для сайта, печатной продукции и т.п., он же Standard-нашивка:  `einherjar_arrow_logo.svg`
 
 ## Цвета для Базового лого
 ### Yellow-версия:
